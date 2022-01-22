@@ -1,0 +1,8 @@
+The public IP address of your load balancer - 20.62.124.158
+The public IP address of the VM where your MongoDB server is located - 20.62.124.158
+
+The downloaded ARM template is present there.
+
+Report - 
+- I learnt a lot about load balancers and how to use them Azure
+- It was a fun exercise
